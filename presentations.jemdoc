@@ -1,0 +1,8 @@
+# jemdoc: menu{MENU}{publications.html}
+= Presentations
+
+: {[https://www.google.org/ *Conference 2023*] My amazing presentation}
+    Me, et al!
+    [files/SamplePresentation.pdf \[PDF\]]
+
+

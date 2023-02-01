@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= MY NAME
+
+~~~
+{}{img_left}{files/SampleHeadShot.svg}{Me}{240}{250}
+
+MY NAME
+
+Position: Chilling at [https://g2lab.org/ G2Lab]
+
+Email: [EMAIL@DOMAIN EMAIL@DOMAIN]
+
+Research Interests: Applied Cryptography + Genomics
+
+[GOOGLESCHOLARLINK \[Google Scholar\]]
+
+~~~
+
+== Introduction
+
+I'm chilling @ [https://g2lab.org/ G2Lab] at the [https://www.nygenome.org/ New York Genome Center]
